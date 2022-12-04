@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  background-color: green;
+  justify-content: center;
+}
+
+.menu li {
+  margin-right: 20px;
+}
+
+.active {
+  color: black;
+}
+
+.text {
+  text-align: center;
+  text-decoration: none;
+}
